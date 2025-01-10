@@ -1,1 +1,1 @@
-# Design Pattern 연습장
+# Design Patterns
